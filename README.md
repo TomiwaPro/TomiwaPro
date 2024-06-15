@@ -18,9 +18,6 @@
 - [Send me an Email](mailto:tomiwaprofficial@gmail.com)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/tomiwapro)
 
-😄 Pronouns:...
--  He/Him
-  
 ⚡ Fun fact:
 - I love solving data problems and uncover hidden insights.
 
