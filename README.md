@@ -19,7 +19,7 @@
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/tomiwapro)
 
 ⚡ Fun fact:
-- I love solving data problems and uncover hidden insights.
+- I love solving data problems and uncovering hidden insights.
 
 <!---
 TomiwaPro/TomiwaPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
