@@ -1,13 +1,28 @@
-- 👋 Hi, I’m Ayotomiwa Alao
-- 👀 I’m interested in Data science, machine learning, and exploring big data.
-- 🌱 I’m currently learning advanced machine learning techniques and deep learning models.
-- 💞️ I’m looking to collaborate on data analysis projects, open-source machine learning stuff, and anything big data-related.
-- 📫 How to reach me:
-- Email: [tomiwaprofficial@gmail.com](mailto:tomiwaprofficial@gmail.com)
-- LinkedIn: [TomiwaPro](https://www.linkedin.com/in/tomiwapro)
-- GitHub: [TomiwaPro](https://github.com/tomiwapro)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving data problems.
+👋 Hi, I’m Ayotomiwa Alao
+
+👀 I’m interested in...
+- Data-driven decision making
+- Business intelligence
+- Data visualization and storytelling
+  
+🌱 I’m currently learning...
+- Advanced SQL techniques
+- Advanced machine learning
+  
+💞️ I’m looking to collaborate on...
+- Data analysis projects
+- Creating interactive dashboards
+- Writing blogs on data analytics
+  
+📫 How to reach me:
+- [Send me an Email](mailto:tomiwaprofficial@gmail.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/tomiwapro)
+
+😄 Pronouns:...
+-  He/Him
+  
+⚡ Fun fact:
+- I love solving data problems and uncover hidden insights.
 
 <!---
 TomiwaPro/TomiwaPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
