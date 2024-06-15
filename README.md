@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced machine learning techniques and deep learning models.
 - 💞️ I’m looking to collaborate on data analysis projects, open-source machine learning stuff, and anything big data-related.
 - 📫 How to reach me:
-- Email: [tomiwaprofficail@gmail.com](mailto:tomiwaprofficial@gmail.com)
+- Email: [tomiwaprofficial@gmail.com](mailto:tomiwaprofficial@gmail.com)
 - LinkedIn: [TomiwaPro](https://www.linkedin.com/in/tomiwapro)
 - GitHub: [TomiwaPro](https://github.com/tomiwapro)
 - 😄 Pronouns: He/Him
